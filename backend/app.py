@@ -1,6 +1,8 @@
 # TODO: Add route for submitting feedback
 # TODO: Connect to SQLite and create feedback table
 # TODO: Add sentiment analysis for feedback messages
+# TODO: Add route to get all feedback and stats
+
 
 from flask import Flask, request, jsonify
 from flask_cors import CORS
