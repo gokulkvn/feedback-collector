@@ -1,4 +1,5 @@
 # TODO: Add route for submitting feedback
+# TODO: Connect to SQLite and create feedback table
 
 from flask import Flask, request, jsonify
 from flask_cors import CORS
