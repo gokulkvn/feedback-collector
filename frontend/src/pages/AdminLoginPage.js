@@ -1,4 +1,5 @@
 // Admin login with hardcoded credentials
+// TODO: Add logout functionality on button
 
 import React, { useState } from 'react';
 import { useNavigate } from 'react-router-dom';
