@@ -2,6 +2,7 @@
 # TODO: Connect to SQLite and create feedback table
 # TODO: Add sentiment analysis for feedback messages
 # TODO: Add route to get all feedback and stats
+# TODO: Add delete route for admin
 
 
 from flask import Flask, request, jsonify
