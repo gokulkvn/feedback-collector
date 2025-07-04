@@ -28,7 +28,7 @@ The application features a clean UI with animations, icon buttons, and toast ale
 - **Frontend**: ReactJS, React Router, React Toastify, Framer Motion, React Icons
 - **Backend**: Python (Flask)
 - **Database**: SQLite
-- **Deployment**: (Optional) Vercel (frontend) + Railway (backend)
+- **Deployment**: (Optional) Vercel (frontend) + Railway (backend) ( Not deployed because railway allows free users only to deploy databases)
 
 ---
 
