@@ -38,6 +38,10 @@ The application features a clean UI with animations, icon buttons, and toast ale
 - Submit feedback with name, category, and message
 - Sentiment analysis (positive/neutral/negative)
 - Feedback is stored securely in the database
+-  View all feedback
+- Filter by category or sentiment
+- Export feedback as CSV or JSON
+
 
 ### Admin Features:
 - Admin login (with hardcoded credentials)
