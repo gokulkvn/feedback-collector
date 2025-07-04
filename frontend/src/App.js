@@ -1,3 +1,5 @@
+// TODO: Add toastify notifications and react-icons
+
 import React, { useState } from 'react';
 import { BrowserRouter as Router, Routes, Route, Link } from 'react-router-dom';
 import FeedbackFormPage from './pages/FeedbackFormPage';
