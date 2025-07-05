@@ -151,7 +151,7 @@ Frontend will be available at:
 
 ---
 
-## 📹 Demo Video (Optional)
+## 📹 Demo Video 
 
 Upload your demo video and add the link below:
 
